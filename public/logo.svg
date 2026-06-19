@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#2563eb"/>
+  
+  <!-- Hotel Building Silhouette -->
+  <path d="M32 96V40h48v56" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 96V56h20v40" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Windows -->
+  <rect x="44" y="52" width="8" height="10" rx="1" fill="#ffffff" opacity="0.9"/>
+  <rect x="60" y="52" width="8" height="10" rx="1" fill="#ffffff" opacity="0.9"/>
+  <rect x="44" y="72" width="8" height="10" rx="1" fill="#ffffff" opacity="0.9"/>
+  <rect x="60" y="72" width="8" height="10" rx="1" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- Yellow badge for price/compare aspect -->
+  <circle cx="96" cy="96" r="24" fill="#fbbf24" stroke="#2563eb" stroke-width="6"/>
+  
+  <!-- Dollar symbol inside badge -->
+  <text x="96" y="104" font-family="system-ui, sans-serif" font-size="24" font-weight="bold" fill="#1e3a8a" text-anchor="middle">$</text>
+</svg>

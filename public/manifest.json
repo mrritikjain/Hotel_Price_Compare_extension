@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Hotel Price Compare",
+  "version": "1.0",
+  "description": "Compare prices of hotels with other websites",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo16.png",
+      "32": "logo32.png",
+      "48": "logo48.png",
+      "128": "logo128.png"
+    }
+  },
+  "icons": {
+    "16": "logo16.png",
+    "32": "logo32.png",
+    "48": "logo48.png",
+    "128": "logo128.png"
+  },
+  "permissions": ["activeTab"]
+}
